@@ -1,1 +1,0 @@
-pythonw manage.py
