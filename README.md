@@ -13,3 +13,6 @@ under 'opfer' run the start.bat.<br />
 For you:<br />
 Shortly after running the Master_Controler.py the client should connect.<br />
 For a list of all commands, enter help.
+
+pleas only download the zip file.< /br>#
+in the zip file are all files you need
